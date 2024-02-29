@@ -1,5 +1,5 @@
 
-[![MasterHead]https://ibb.co/1mXMtFD)](https://www.chandubopche.online)
+[![MasterHead]https://i.ibb.co/RD6NkRx/Chandu-Bopche.gif)](https://www.chandubopche.online)
 <h1 align="center">Hi 👋, I'm Chandu Bopche</h1>
 <h3 align="center">Passionate Frontend Developer Crafting User-Centric Web Experiences</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"/>
