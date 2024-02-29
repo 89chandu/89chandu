@@ -1,5 +1,5 @@
 
-[![MasterHead]https://www.canva.com/design/DAF-J8Bu3b8/Fjl8XmZivs_sbcCygrh_Yg/watch?utm_content=DAF-J8Bu3b8&utm_campaign=share_your_design&utm_medium=link&utm_source=shareyourdesignpanel)](https://www.chandubopche.online)
+[![MasterHead]https://ibb.co/1mXMtFD)](https://www.chandubopche.online)
 <h1 align="center">Hi 👋, I'm Chandu Bopche</h1>
 <h3 align="center">Passionate Frontend Developer Crafting User-Centric Web Experiences</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"/>
