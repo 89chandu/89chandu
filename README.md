@@ -71,39 +71,124 @@ Today → Building products that impact thousands of users.
 
 # 👨‍💻 About Me
 
-<img align="right" width="380" src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif">
+<table>
+<tr>
 
-```yaml
-Name: Chandu Bopche
+<td width="60%" valign="top">
 
-Role:
-  Senior Software Engineer
+<table>
 
-Company:
-  MedCafe Global
+<tr>
+<td width="50%">
 
-Experience:
-  6+ Years
+### 👤 Profile
 
-Specialization:
-  Mobile Development
-  Full Stack Development
-  System Design
+**👨‍💻 Name**  
+Chandu Bopche
 
-Current Focus:
-  Enterprise Mobile Apps
-  Scalable Backend APIs
-  AI Integrated Products
+**💼 Role**  
+Senior Software Engineer
 
-Mission:
-  Build Products That Matter.
+**🏢 Company**  
+MedCafe Global
 
-Country:
-  India 🇮🇳
-```
+</td>
+
+<td width="50%">
+
+### 🚀 Experience
+
+**📅 Experience**  
+6+ Years
+
+**📍 Location**  
+India 🇮🇳
+
+**🎯 Mission**  
+Build Products That Matter
+
+</td>
+</tr>
+
+<tr>
+<td>
+
+### 📱 Mobile
+
+- Flutter
+- React Native
+- Android
+- Dart
+
+</td>
+
+<td>
+
+### 🌐 Full Stack
+
+- Next.js
+- React.js
+- Node.js
+- NestJS
+
+</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+### 🗄 Database
+
+- PostgreSQL
+- MySQL
+- MongoDB
+- Prisma ORM
+
+</td>
+
+<td>
+
+### ☁ Cloud & Tools
+
+- Firebase
+- Docker
+- Redis
+- Nginx
+
+</td>
+
+</tr>
+
+</table>
+
+</td>
+
+<td width="40%" align="center">
+
+<img width="340" src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif"/>
+
+<br><br>
+
+### ⚡ Current Focus
+
+🏥 Enterprise Healthcare Products
+
+📱 Scalable Mobile Apps
+
+🤖 AI Powered Applications
+
+☁ Cloud Native Backend
+
+🏗 System Design
+
+</td>
+
+</tr>
+</table>
 
 ---
-
 # 🛠 Tech Arsenal
 
 ## 📱 Mobile
