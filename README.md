@@ -137,43 +137,7 @@
   </tr>
 </table>
 
----
 
-<table width="100%">
-  <tr>
-    <th colspan="2" align="center"><h3>🚀 Featured Enterprise Projects</h3></th>
-  </tr>
-  <tr valign="top">
-    <td width="50%">
-      <h4>🎯 ExamOS — Advanced Online Assessment Platform</h4>
-      <p>An enterprise-grade examination and proctoring platform engineered for high concurrency. Features real-time evaluation, automated grading, live analytics, and secure browser enforcement.</p>
-      <sub><b>Tech Stack:</b> Flutter • Next.js • NestJS • PostgreSQL • WebSockets</sub><br><br>
-      <img src="https://skillicons.dev/icons?i=flutter,nextjs,nestjs,postgres&theme=dark" alt="ExamOS Tech"/>
-    </td>
-    <td width="50%">
-      <h4>🏥 MedCafe LMS — Healthcare Learning Ecosystem</h4>
-      <p>A comprehensive LMS tailored for medical professionals. Architected with interactive live streaming classes, certification tracking, real-time quizzes, and high-performance content delivery.</p>
-      <sub><b>Tech Stack:</b> React Native • Node.js • MongoDB • Firebase • Redis</sub><br><br>
-      <img src="https://skillicons.dev/icons?i=react,nodejs,mongodb,firebase,redis&theme=dark" alt="MedCafe Tech"/>
-    </td>
-  </tr>
-  <tr valign="top">
-    <td width="50%">
-      <h4>🚜 Machine Bulao — Heavy Equipment Marketplace</h4>
-      <p>An on-demand B2B & B2C hiring marketplace for heavy construction machinery. Features GPS real-time equipment tracking, automated booking scheduling, and secure escrow payment workflows.</p>
-      <sub><b>Tech Stack:</b> Flutter • Node.js • Express • PostgreSQL • Google Cloud</sub><br><br>
-      <img src="https://skillicons.dev/icons?i=flutter,nodejs,express,postgres,gcp&theme=dark" alt="Machine Bulao Tech"/>
-    </td>
-    <td width="50%">
-      <h4>🏋️ Gym ERP — Fitness Center Automation Suite</h4>
-      <p>An all-in-one ERP solution for fitness centers. Automates subscription billing, biometric member attendance tracking, AI-powered workout plans, and multi-branch financial reporting.</p>
-      <sub><b>Tech Stack:</b> Next.js • TypeScript • NestJS • Prisma • Docker</sub><br><br>
-      <img src="https://skillicons.dev/icons?i=nextjs,ts,nestjs,prisma,docker&theme=dark" alt="Gym ERP Tech"/>
-    </td>
-  </tr>
-</table>
-
----
 
 <table width="100%">
   <tr>
