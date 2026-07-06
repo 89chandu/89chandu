@@ -1,1 +1,926 @@
-[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)](https://www.chandubopche.online) <h1 align="center">Hi 👋, I'm Chandu Bopche</h1> <h3 align="center">Passionate Frontend Developer Crafting User-Centric Web Experiences</h3> <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"/> <p align="left"> <a href="https://twitter.com/chandu_bopche" target="blank"><img src="https://img.shields.io/twitter/follow/chandu_bopche?logo=twitter&style=for-the-badge" alt="chandu_bopche" /></a> </p> - 🔭 I’m currently working on **ecommerce app** - 🌱 I’m currently learning **node.js** - 💬 Ask me about **react** - 📫 How to reach me **chandubopche321@gmail.com** <h3 align="left">Connect with me:</h3> <p align="left"> <a href="https://twitter.com/chandu_bopche" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="chandu_bopche" height="30" width="40" /></a> <a href="https://fb.com/chandubopche" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="chandubopche" height="30" width="40" /></a> <a href="https://instagram.com/chandu_bopche" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="chandu_bopche" height="30" width="40" /></a> </p> <h3 align="left">Languages and Tools:</h3> <p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://nestjs.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nestjs/nestjs-plain.svg" alt="nestjs" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> </p> <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=89chandu&show_icons=true&locale=en&layout=compact" alt="89chandu" /></p> <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=89chandu&show_icons=true&locale=en" alt="89chandu" /></p> <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=89chandu&" alt="89chandu" /></p>
+<!-- ===================================================== -->
+<!--                 PREMIUM GITHUB PROFILE                -->
+<!--                 PART 1 - HERO SECTION                 -->
+<!-- ===================================================== -->
+
+<p align="center">
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=320&color=0:6C63FF,25:4F46E5,50:0EA5E9,75:06B6D4,100:22D3EE&text=Chandu%20Bopche&fontColor=ffffff&fontSize=58&animation=fadeIn&fontAlignY=38&desc=Senior%20Software%20Engineer%20•%20Flutter%20Expert%20•%20Full%20Stack%20Developer&descAlignY=60"/>
+</p>
+
+<h1 align="center">
+Hi 👋 I'm Chandu Bopche
+</h1>
+
+<h3 align="center">
+Senior Software Engineer • Mobile Architect • Full Stack Developer • India 🇮🇳
+</h3>
+
+<p align="center">
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=700&size=24&duration=3500&pause=1200&color=00E5FF&center=true&vCenter=true&width=900&lines=6%2B+Years+of+Software+Engineering+Experience;Senior+Software+Engineer+@+MedCafe+Global;Flutter+%7C+React+Native+Expert;Next.js+%7C+Node.js+%7C+NestJS;Building+Scalable+Products;Clean+Architecture+Advocate;Performance+Driven+Developer;Always+Learning.+Always+Building."/>
+
+</p>
+
+---
+
+<p align="center">
+
+<a href="mailto:chandubopche321@gmail.com">
+<img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail"/>
+</a>
+
+<a href="https://github.com/89chandu">
+<img src="https://img.shields.io/badge/GitHub-89chandu-black?style=for-the-badge&logo=github"/>
+</a>
+
+<a href="https://twitter.com/chandu_bopche">
+<img src="https://img.shields.io/badge/Twitter-Follow-1DA1F2?style=for-the-badge&logo=twitter"/>
+</a>
+
+<img src="https://komarev.com/ghpvc/?username=89chandu&style=for-the-badge&color=blueviolet"/>
+
+</p>
+
+---
+
+# 🚀 My Journey
+
+```text
+2019  → Started coding with curiosity.
+
+2020  → Built Android & Web Applications.
+
+2021  → Started Freelancing and delivered multiple
+         real-world client projects.
+
+2022  → Entered Full Stack Development.
+
+2023  → Specialized in Flutter Architecture,
+         Backend APIs and Scalable Systems.
+
+2024  → Built Healthcare, LMS,
+         Enterprise & AI Powered Products.
+
+2025  → Joined MedCafe Global as
+         Senior Software Engineer.
+
+Today → Building products that impact thousands of users.
+```
+
+---
+
+# 👨‍💻 About Me
+
+<img align="right" width="380" src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif">
+
+```yaml
+Name: Chandu Bopche
+
+Role:
+  Senior Software Engineer
+
+Company:
+  MedCafe Global
+
+Experience:
+  6+ Years
+
+Specialization:
+  Mobile Development
+  Full Stack Development
+  System Design
+
+Current Focus:
+  Enterprise Mobile Apps
+  Scalable Backend APIs
+  AI Integrated Products
+
+Mission:
+  Build Products That Matter.
+
+Country:
+  India 🇮🇳
+```
+
+---
+
+## ⚡ Quick Highlights
+
+- 👨‍💻 6+ Years Professional Experience
+
+- 🏢 Senior Software Engineer @ MedCafe Global
+
+- 📱 Flutter & React Native Specialist
+
+- 🌐 Full Stack Developer
+
+- 🚀 Expert in Next.js & Node.js
+
+- 🏗 Clean Architecture Enthusiast
+
+- ⚡ REST APIs & Scalable Backend Systems
+
+- 🎯 Performance Optimization Expert
+
+- 🤖 AI Integrated Application Development
+
+- 💡 Passionate about solving real-world problems
+
+---
+
+# 🛠 Tech Arsenal
+
+## 📱 Mobile
+
+<p>
+
+<img src="https://skillicons.dev/icons?i=flutter,dart,androidstudio,kotlin"/>
+
+</p>
+
+---
+
+## 🌐 Frontend
+
+<p>
+
+<img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,html,css,tailwind,redux"/>
+
+</p>
+
+---
+
+## ⚙ Backend
+
+<p>
+
+<img src="https://skillicons.dev/icons?i=nodejs,nestjs,express"/>
+
+</p>
+
+---
+
+## 🗄 Database
+
+<p>
+
+<img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,firebase"/>
+
+</p>
+
+---
+
+## ☁ DevOps
+
+<p>
+
+<img src="https://skillicons.dev/icons?i=docker,redis,linux,nginx,git,github"/>
+
+</p>
+
+---
+
+## 🎨 Tools
+
+<p>
+
+<img src="https://skillicons.dev/icons?i=figma,vscode,postman"/>
+
+</p>
+
+---
+
+# 💼 What I Build
+
+```text
+📱 Enterprise Mobile Applications
+
+🌐 Full Stack Web Applications
+
+🏥 Healthcare Platforms
+
+🎓 Learning Management Systems
+
+🛒 eCommerce Solutions
+
+🤖 AI Powered Applications
+
+🏢 Admin Dashboards
+
+⚡ REST APIs
+
+☁ Cloud Ready Architectures
+
+📊 Business Automation Systems
+```
+
+---
+
+# 💭 Philosophy
+
+> "Great software isn't just about writing code.
+>
+> It's about solving problems,
+>
+> creating experiences,
+>
+> and building products people love."
+<!-- ===================================================== -->
+<!--          PART 2 - EXPERIENCE & PROJECTS               -->
+<!-- ===================================================== -->
+
+# 💼 Professional Experience
+
+<table>
+<tr>
+<td width="70%">
+
+## 🏢 Senior Software Engineer
+
+### MedCafe Global
+
+📍 India
+
+🗓️ Current
+
+Building scalable Healthcare Platforms, LMS Solutions,
+Enterprise Applications and AI-integrated systems.
+
+### Responsibilities
+
+- 📱 Developing Cross Platform Mobile Applications
+- 🌐 Building Enterprise Web Applications
+- ⚡ Designing High Performance REST APIs
+- 🏗 Clean Architecture Implementation
+- 🎯 Code Reviews & Performance Optimization
+- ☁ Production Deployment
+- 🤖 AI Feature Integration
+- 🔐 Authentication & Security
+- 📊 Database Optimization
+- 🚀 Product Scalability
+
+</td>
+
+<td>
+
+<img width="260" src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif">
+
+</td>
+
+</tr>
+</table>
+
+---
+
+# 🚀 Featured Projects
+
+## 🎓 ExamOS
+
+> India's Next Generation Competitive Exam Platform
+
+### Features
+
+- AI Powered Test Analysis
+- Live Mock Tests
+- Mega Contests
+- Doubt Management
+- Performance Analytics
+- Student Dashboard
+- Live Rankings
+- Notes Management
+- Smart Revision
+- Admin Panel
+
+**Tech**
+
+`Flutter`
+
+`Node.js`
+
+`PostgreSQL`
+
+`Redis`
+
+`Docker`
+
+---
+
+## 🏥 MedCafe LMS
+
+Modern Learning Platform for Healthcare Professionals.
+
+### Features
+
+- Video Courses
+- Live Classes
+- AI Quiz Generator
+- Certificates
+- Assignments
+- Notes
+- Progress Tracking
+- Admin Dashboard
+- Payments
+- Notifications
+
+**Tech**
+
+`Flutter`
+
+`Next.js`
+
+`Node.js`
+
+`PostgreSQL`
+
+`Firebase`
+
+---
+
+## 🚜 Machine Bulao
+
+Equipment Rental Platform
+
+### Features
+
+- Live Booking
+- Operator Management
+- OTP Verification
+- GPS Tracking
+- Payment System
+- Admin Dashboard
+- Notifications
+- Real Time Status
+
+**Tech**
+
+`Flutter`
+
+`Node.js`
+
+`MongoDB`
+
+---
+
+## 🏋 Gym Management ERP
+
+Enterprise Gym Management Software
+
+### Features
+
+- Membership Management
+- Attendance
+- WhatsApp Automation
+- Fingerprint Integration
+- Payments
+- Reports
+- Staff Management
+- Admin Dashboard
+
+**Tech**
+
+`Flutter`
+
+`Next.js`
+
+`Node.js`
+
+`MySQL`
+
+---
+
+## 🛒 eCommerce Platform
+
+### Features
+
+- Product Management
+
+- Orders
+
+- Payments
+
+- Wishlist
+
+- Cart
+
+- Coupons
+
+- Inventory
+
+- Analytics
+
+---
+
+# 🏆 Achievements
+
+🏅 6+ Years of Professional Experience
+
+🏅 Enterprise Software Engineer
+
+🏅 Mobile Application Specialist
+
+🏅 Full Stack Developer
+
+🏅 Flutter Expert
+
+🏅 React Native Developer
+
+🏅 Backend API Specialist
+
+🏅 Database Design Expert
+
+🏅 Clean Architecture Enthusiast
+
+🏅 UI/UX Focused Developer
+
+---
+
+# 📈 Career Timeline
+
+```text
+
+2019
+│
+├── Started Programming
+
+2020
+│
+├── Android Development
+
+2021
+│
+├── Web Development
+├── Freelancing
+├── Client Projects
+
+2022
+│
+├── Full Stack Development
+├── Flutter
+
+2023
+│
+├── Backend Engineering
+├── Enterprise Projects
+
+2024
+│
+├── AI Powered Applications
+├── System Design
+
+2025
+│
+├── Senior Software Engineer
+├── MedCafe Global
+
+2026
+│
+└── Building Large Scale Products 🚀
+
+```
+
+---
+
+# 💡 Core Expertise
+
+### 📱 Mobile
+
+- Flutter
+- React Native
+- Android
+- iOS
+
+---
+
+### 🌐 Frontend
+
+- React.js
+- Next.js
+- TypeScript
+- TailwindCSS
+- Redux
+
+---
+
+### ⚙ Backend
+
+- Node.js
+- NestJS
+- Express.js
+- REST APIs
+- JWT
+- WebSockets
+
+---
+
+### 🗄 Database
+
+- PostgreSQL
+- MySQL
+- MongoDB
+- Prisma ORM
+- Firebase
+
+---
+
+### ☁ DevOps
+
+- Docker
+- Redis
+- Nginx
+- PM2
+- GitHub Actions
+
+---
+
+# 🎯 Current Goals
+
+🚀 Building Enterprise Products
+
+🤖 AI Powered Applications
+
+📱 High Performance Mobile Apps
+
+☁ Cloud Native Backend
+
+🏗 System Design
+
+⚡ Scalable Architectures
+
+💯 Clean Code
+
+🌍 Impact Millions of Users
+
+---
+
+# ❤️ I Believe
+
+> **Software Engineering isn't just coding.**
+
+It is about
+
+✔ Building Products
+
+✔ Solving Problems
+
+✔ Helping Businesses Grow
+
+✔ Creating Great User Experiences
+
+✔ Writing Maintainable Code
+
+✔ Learning Every Day
+<!-- ===================================================== -->
+<!--              PART 3 - GITHUB ANALYTICS                -->
+<!-- ===================================================== -->
+
+# 📊 GitHub Analytics
+
+<p align="center">
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=89chandu&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
+
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=89chandu&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+<p align="center">
+
+<img width="55%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=89chandu&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+---
+
+# 📈 Contribution Graph
+
+<p align="center">
+
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=89chandu&theme=tokyo-night&hide_border=true"/>
+
+</p>
+
+---
+
+# 🏆 GitHub Achievements
+
+<p align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=89chandu&theme=tokyonight&column=4&margin-w=15&margin-h=15&no-frame=true"/>
+
+</p>
+
+---
+
+# ⚡ Coding Activity
+
+<p align="center">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=89chandu&theme=tokyonight"/>
+
+</p>
+
+<p align="center">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=89chandu&theme=tokyonight"/>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=89chandu&theme=tokyonight"/>
+
+</p>
+
+---
+
+# 📊 GitHub Overview
+
+<p align="center">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=89chandu&theme=tokyonight"/>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=89chandu&theme=tokyonight&utcOffset=5.5"/>
+
+</p>
+
+---
+
+# 🚀 Development Philosophy
+
+```text
+           Think
+             │
+             ▼
+      Design Architecture
+             │
+             ▼
+      Write Clean Code
+             │
+             ▼
+     Optimize Performance
+             │
+             ▼
+      Test Thoroughly
+             │
+             ▼
+      Deploy Confidently
+             │
+             ▼
+     Monitor & Improve
+```
+
+---
+
+# 💻 Tech I Work With Daily
+
+<table>
+<tr>
+
+<td align="center">
+<img src="https://skillicons.dev/icons?i=flutter"/>
+<br>Flutter
+</td>
+
+<td align="center">
+<img src="https://skillicons.dev/icons?i=nextjs"/>
+<br>Next.js
+</td>
+
+<td align="center">
+<img src="https://skillicons.dev/icons?i=nodejs"/>
+<br>Node.js
+</td>
+
+<td align="center">
+<img src="https://skillicons.dev/icons?i=nestjs"/>
+<br>NestJS
+</td>
+
+<td align="center">
+<img src="https://skillicons.dev/icons?i=postgres"/>
+<br>PostgreSQL
+</td>
+
+</tr>
+
+<tr>
+
+<td align="center">
+<img src="https://skillicons.dev/icons?i=mongodb"/>
+<br>MongoDB
+</td>
+
+<td align="center">
+<img src="https://skillicons.dev/icons?i=mysql"/>
+<br>MySQL
+</td>
+
+<td align="center">
+<img src="https://skillicons.dev/icons?i=redis"/>
+<br>Redis
+</td>
+
+<td align="center">
+<img src="https://skillicons.dev/icons?i=docker"/>
+<br>Docker
+</td>
+
+<td align="center">
+<img src="https://skillicons.dev/icons?i=firebase"/>
+<br>Firebase
+</td>
+
+</tr>
+
+</table>
+
+---
+
+# 📚 Currently Exploring
+
+- 🧠 AI Agents & MCP Servers
+- ⚡ High Performance Backend Systems
+- 🏗 Large Scale System Design
+- ☁ Cloud Native Architecture
+- 📦 Kubernetes Fundamentals
+- 🔄 Event Driven Architecture
+- 🤖 LLM Integration
+- 📈 Performance Optimization
+
+---
+
+# 🌟 Fun Facts
+
+```yaml
+Coffee Consumed:
+  ☕☕☕☕☕
+
+Lines of Code:
+  Millions+
+
+Favorite IDE:
+  VS Code
+
+Preferred Stack:
+  Flutter + Node.js + PostgreSQL
+
+Architecture:
+  Clean Architecture
+
+Coding Style:
+  Readable > Clever
+
+Mission:
+  Build Software That Makes Impact
+```
+
+---
+
+# 💬 Favorite Quote
+
+> **"First, solve the problem. Then, write the code."**  
+> — John Johnson
+
+---
+
+# 🔥 Open Source
+
+✅ Always open to collaboration
+
+✅ Happy to contribute
+
+✅ Love building developer tools
+
+✅ Passionate about scalable products
+
+✅ Learning never stops 🚀
+
+---
+
+<!-- ===================================================== -->
+<!--           PART 4 - CONTACT • FOOTER • SNAKE           -->
+<!-- ===================================================== -->
+
+# 🤝 Let's Connect
+
+<p align="center">
+
+<a href="mailto:chandubopche321@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://github.com/89chandu">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<a href="https://twitter.com/chandu_bopche">
+<img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=x&logoColor=white"/>
+</a>
+
+<a href="https://instagram.com/chandu_bopche">
+<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+</a>
+
+<a href="https://www.linkedin.com/in/YOUR-LINKEDIN">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+</p>
+
+---
+
+# 🌍 Portfolio
+
+<p align="center">
+
+### 🚀 Building products that solve real-world problems.
+
+📧 **Email:** `chandubopche321@gmail.com`
+
+💼 **Role:** Senior Software Engineer @ MedCafe Global
+
+📍 **Location:** India 🇮🇳
+
+</p>
+
+---
+
+# 💖 Support My Work
+
+<p align="center">
+
+⭐ Star my repositories if you find them useful.
+
+🍴 Fork projects that inspire you.
+
+🤝 Contributions are always welcome.
+
+💬 Let's build something amazing together.
+
+</p>
+
+---
+
+# 📊 Profile Visitors
+
+<p align="center">
+
+<img src="https://komarev.com/ghpvc/?username=89chandu&label=PROFILE+VIEWS&style=for-the-badge&color=blueviolet"/>
+
+</p>
+
+---
+
+# 🐍 Contribution Snake
+
+> **⚠️ Requires GitHub Actions setup**
+
+<p align="center">
+
+<img src="https://raw.githubusercontent.com/89chandu/89chandu/output/github-contribution-grid-snake-dark.svg"/>
+
+</p>
+
+---
+
+# 🎯 2026 Goals
+
+- 🚀 Build products used by Millions
+- 📱 Become one of the best Flutter Engineers
+- ⚡ Master Distributed System Design
+- 🤖 Build AI-first SaaS Products
+- 🌎 Contribute more to Open Source
+- 🎥 Grow my Tech YouTube Channel
+- 📚 Mentor developers around the world
+
+---
+
+# 💬 Developer Philosophy
+
+```text
+Learn.
+Build.
+Break.
+Fix.
+Improve.
+Repeat.
+
+```
+
+---
+
+# 💡 Motto
+
+> **"I don't just write code. I engineer scalable digital experiences."**
+
+---
+
+<p align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=170&section=footer&color=0:6C63FF,25:4F46E5,50:0EA5E9,75:06B6D4,100:22D3EE"/>
+
+</p>
+
+<h2 align="center">
+
+Thanks for visiting ❤️
+
+See you again 👋
+
+</h2>
