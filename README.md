@@ -20,10 +20,15 @@
 
 <table width="100%">
   <tr>
-    <td width="42%" valign="top">
-      <h3>👨 About Me</h3>
-      <p>Senior Software Engineer with <b>6+ years of experience</b> architecting high-concurrency enterprise applications, cross-platform mobile ecosystems, and AI-powered products.</p>
-      <table>
+    <th colspan="2" align="center">
+      <h3>👨‍💻 About Me & Current Focus <img width="45" src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" align="right"/></h3>
+    </th>
+  </tr>
+  <tr valign="top">
+    <td width="50%">
+      <h4>⚡ Professional Profile</h4>
+      <p>Senior Software Engineer with <b>6+ years of experience</b> architecting high-concurrency enterprise applications, cross-platform mobile ecosystems, and scalable AI products.</p>
+      <table width="100%">
         <tr><td><b>💼 Role</b></td><td>Senior Software Engineer</td></tr>
         <tr><td><b>🏢 Company</b></td><td>MedCafe Global</td></tr>
         <tr><td><b>⚡ Experience</b></td><td>6+ Years Professional</td></tr>
@@ -31,19 +36,16 @@
         <tr><td><b>🎯 Mission</b></td><td>Engineering scalable digital experiences</td></tr>
       </table>
     </td>
-    <td width="38%" valign="top">
-      <h3>🚀 Current Focus</h3>
-      <p>Specializing in cloud-native backend systems, clean mobile architecture, and generative AI integrations.</p>
-      <ul>
-        <li><b>📱 Mobile Architecture:</b> Flutter & React Native enterprise design patterns</li>
-        <li><b>🌐 Modern Web:</b> Next.js SSR/ISR, React, TypeScript, TailwindCSS</li>
-        <li><b>⚙️ High-Perf Backend:</b> Node.js, NestJS, Microservices, REST & WebSockets</li>
-        <li><b>🗄️ Database & Cloud:</b> PostgreSQL, MongoDB, Prisma, Redis, Docker</li>
-        <li><b>🤖 AI Products:</b> LLM integrations, AI Agents & MCP Servers</li>
-      </ul>
-    </td>
-    <td width="20%" align="center" valign="middle">
-      <img width="160" src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" alt="Coding Animation"/>
+    <td width="50%">
+      <h4>🚀 Current Focus & Architecture</h4>
+      <p>Specializing in cloud-native backend systems, clean mobile architecture, enterprise design patterns, and generative AI integrations.</p>
+      <table width="100%">
+        <tr><td><b>📱 Mobile</b></td><td>Flutter & React Native Enterprise Apps</td></tr>
+        <tr><td><b>🌐 Web</b></td><td>Next.js SSR/ISR, React & TypeScript</td></tr>
+        <tr><td><b>⚙️ Backend</b></td><td>Node.js, NestJS, Microservices & REST</td></tr>
+        <tr><td><b>🗄️ Database</b></td><td>PostgreSQL, MongoDB, Prisma & Redis</td></tr>
+        <tr><td><b>🤖 AI & Cloud</b></td><td>LLM Integrations, AI Agents & Docker</td></tr>
+      </table>
     </td>
   </tr>
 </table>
