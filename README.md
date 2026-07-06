@@ -139,46 +139,13 @@
 
 
 
-<table width="100%">
-  <tr>
-    <th colspan="2" align="center"><h3>📊 GitHub Analytics & Productivity Dashboard</h3></th>
-  </tr>
-  <tr align="center" valign="middle">
-    <td width="50%">
-      <img width="98%" src="https://github-readme-stats.vercel.app/api?username=89chandu&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&bg_color=0D1117"/>
-    </td>
-    <td width="50%">
-      <img width="98%" src="https://github-readme-streak-stats.herokuapp.com/?user=89chandu&theme=tokyonight&hide_border=true&background=0D1117"/>
-    </td>
-  </tr>
-  <tr align="center" valign="middle">
-    <td width="50%">
-      <img width="98%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=89chandu&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117"/>
-    </td>
-    <td width="50%">
-      <img width="98%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=89chandu&theme=tokyonight&utcOffset=5.5"/>
-    </td>
-  </tr>
-</table>
+---
+
+<h3 align="center">🔥 GitHub Contribution Streak 🔥</h3>
 
 <p align="center">
-  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=89chandu&theme=tokyo-night&hide_border=true&bg_color=0D1117"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=89chandu&theme=tokyonight&hide_border=true&background=0D1117"/>
 </p>
-
-<table width="100%">
-  <tr>
-    <th width="50%" align="center"><h3>🏆 GitHub Trophies</h3></th>
-    <th width="50%" align="center"><h3>🐍 Contribution Activity Snake</h3></th>
-  </tr>
-  <tr align="center" valign="middle">
-    <td width="50%">
-      <img src="https://github-profile-trophy.vercel.app/?username=89chandu&theme=tokyonight&column=3&margin-w=10&margin-h=10&no-frame=true"/>
-    </td>
-    <td width="50%">
-      <img src="https://raw.githubusercontent.com/89chandu/89chandu/output/github-contribution-grid-snake-dark.svg" alt="Snake Animation" width="100%"/>
-    </td>
-  </tr>
-</table>
 
 ---
 
