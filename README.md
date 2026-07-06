@@ -72,90 +72,78 @@ Today → Building products that impact thousands of users.
 # 👨‍💻 About Me
 
 <table>
+
 <tr>
 
-<td width="60%" valign="top">
+<td width="33%" align="center">
+
+### 👨‍💻
+
+## Chandu Bopche
+
+Senior Software Engineer
+
+🏢 MedCafe Global
+
+📍 India 🇮🇳
+
+📅 6+ Years
+
+</td>
+
+<td width="33%" align="center">
+
+### ⚡ Core Stack
+
+📱 Flutter
+
+⚛️ React Native
+
+🌐 Next.js
+
+🚀 Node.js
+
+🗄 PostgreSQL
+
+🔥 Firebase
+
+</td>
+
+<td width="34%" align="center">
+
+<img width="260" src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif"/>
+
+</td>
+
+</tr>
+
+</table>
 
 <table>
 
 <tr>
-<td width="50%">
-
-### 👤 Profile
-
-**👨‍💻 Name**  
-Chandu Bopche
-
-**💼 Role**  
-Senior Software Engineer
-
-**🏢 Company**  
-MedCafe Global
-
-</td>
 
 <td width="50%">
 
-### 🚀 Experience
+### 💼 Currently Building
 
-**📅 Experience**  
-6+ Years
-
-**📍 Location**  
-India 🇮🇳
-
-**🎯 Mission**  
-Build Products That Matter
-
-</td>
-</tr>
-
-<tr>
-<td>
-
-### 📱 Mobile
-
-- Flutter
-- React Native
-- Android
-- Dart
+- Enterprise Mobile Applications
+- AI Powered Products
+- Healthcare Platforms
+- LMS Systems
+- Admin Dashboards
 
 </td>
 
-<td>
+<td width="50%">
 
-### 🌐 Full Stack
+### ❤️ Passion
 
-- Next.js
-- React.js
-- Node.js
-- NestJS
-
-</td>
-
-</tr>
-
-<tr>
-
-<td>
-
-### 🗄 Database
-
-- PostgreSQL
-- MySQL
-- MongoDB
-- Prisma ORM
-
-</td>
-
-<td>
-
-### ☁ Cloud & Tools
-
-- Firebase
-- Docker
-- Redis
-- Nginx
+- Clean Architecture
+- High Performance Apps
+- Beautiful UI/UX
+- Scalable APIs
+- System Design
 
 </td>
 
@@ -163,30 +151,7 @@ Build Products That Matter
 
 </table>
 
-</td>
-
-<td width="40%" align="center">
-
-<img width="340" src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif"/>
-
-<br><br>
-
-### ⚡ Current Focus
-
-🏥 Enterprise Healthcare Products
-
-📱 Scalable Mobile Apps
-
-🤖 AI Powered Applications
-
-☁ Cloud Native Backend
-
-🏗 System Design
-
-</td>
-
-</tr>
-</table>
+---
 
 ---
 # 🛠 Tech Arsenal
