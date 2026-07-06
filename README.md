@@ -104,30 +104,6 @@ Country:
 
 ---
 
-## ⚡ Quick Highlights
-
-- 👨‍💻 6+ Years Professional Experience
-
-- 🏢 Senior Software Engineer @ MedCafe Global
-
-- 📱 Flutter & React Native Specialist
-
-- 🌐 Full Stack Developer
-
-- 🚀 Expert in Next.js & Node.js
-
-- 🏗 Clean Architecture Enthusiast
-
-- ⚡ REST APIs & Scalable Backend Systems
-
-- 🎯 Performance Optimization Expert
-
-- 🤖 AI Integrated Application Development
-
-- 💡 Passionate about solving real-world problems
-
----
-
 # 🛠 Tech Arsenal
 
 ## 📱 Mobile
@@ -394,26 +370,6 @@ Enterprise Applications and AI-integrated systems.
 
 ---
 
-# 🎯 Current Goals
-
-🚀 Building Enterprise Products
-
-🤖 AI Powered Applications
-
-📱 High Performance Mobile Apps
-
-☁ Cloud Native Backend
-
-🏗 System Design
-
-⚡ Scalable Architectures
-
-💯 Clean Code
-
-🌍 Impact Millions of Users
-
----
-
 # ❤️ I Believe
 
 > **Software Engineering isn't just coding.**
@@ -503,32 +459,6 @@ It is about
 
 ---
 
-# 🚀 Development Philosophy
-
-```text
-           Think
-             │
-             ▼
-      Design Architecture
-             │
-             ▼
-      Write Clean Code
-             │
-             ▼
-     Optimize Performance
-             │
-             ▼
-      Test Thoroughly
-             │
-             ▼
-      Deploy Confidently
-             │
-             ▼
-     Monitor & Improve
-```
-
----
-
 # 💻 Tech I Work With Daily
 
 <table>
@@ -604,33 +534,6 @@ It is about
 - 🔄 Event Driven Architecture
 - 🤖 LLM Integration
 - 📈 Performance Optimization
-
----
-
-# 🌟 Fun Facts
-
-```yaml
-Coffee Consumed:
-  ☕☕☕☕☕
-
-Lines of Code:
-  Millions+
-
-Favorite IDE:
-  VS Code
-
-Preferred Stack:
-  Flutter + Node.js + PostgreSQL
-
-Architecture:
-  Clean Architecture
-
-Coding Style:
-  Readable > Clever
-
-Mission:
-  Build Software That Makes Impact
-```
 
 ---
 
