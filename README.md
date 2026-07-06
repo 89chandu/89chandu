@@ -107,64 +107,83 @@ Country:
 # 🛠 Tech Arsenal
 
 ## 📱 Mobile
+# ⚡ Tech Arsenal
 
-<p>
+<table>
 
-<img src="https://skillicons.dev/icons?i=flutter,dart,androidstudio,kotlin"/>
+<tr>
 
-</p>
+<td width="50%">
 
----
+### 📱 Mobile Development
 
-## 🌐 Frontend
+Flutter • Dart • React Native • Android • Kotlin
 
-<p>
+<img src="https://skillicons.dev/icons?i=flutter,dart,react,android,kotlin"/>
 
-<img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,html,css,tailwind,redux"/>
+</td>
 
-</p>
+<td width="50%">
 
----
+### 🌐 Frontend
 
-## ⚙ Backend
+Next.js • React • TypeScript • Tailwind • Redux
 
-<p>
+<img src="https://skillicons.dev/icons?i=nextjs,react,ts,js,tailwind,redux"/>
+
+</td>
+
+</tr>
+
+<tr>
+
+<td width="50%">
+
+### ⚙ Backend
+
+Node.js • NestJS • Express
 
 <img src="https://skillicons.dev/icons?i=nodejs,nestjs,express"/>
 
-</p>
+</td>
 
----
+<td width="50%">
 
-## 🗄 Database
+### 🗄 Database
 
-<p>
+PostgreSQL • MySQL • MongoDB • Firebase • Prisma
 
-<img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,firebase"/>
+<img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,firebase,prisma"/>
 
-</p>
+</td>
 
----
+</tr>
 
-## ☁ DevOps
+<tr>
 
-<p>
+<td width="50%">
 
-<img src="https://skillicons.dev/icons?i=docker,redis,linux,nginx,git,github"/>
+### ☁ DevOps
 
-</p>
+Docker • Redis • Linux • Nginx • GitHub
 
----
+<img src="https://skillicons.dev/icons?i=docker,redis,linux,nginx,github"/>
 
-## 🎨 Tools
+</td>
 
-<p>
+<td width="50%">
 
-<img src="https://skillicons.dev/icons?i=figma,vscode,postman"/>
+### 🎨 Developer Tools
 
-</p>
+VS Code • Figma • Postman
 
----
+<img src="https://skillicons.dev/icons?i=vscode,figma,postman"/>
+
+</td>
+
+</tr>
+
+</table>
 
 # 💼 What I Build
 
